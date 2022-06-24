@@ -1,0 +1,63 @@
+1.What is the difference between STLC(Software Testing Life Cycle) and SDLC(Software Development Life Cycle)
+
+A. SDLC - * SDLC is mainly related to software development.
+          * Besides development other phases like testing is also included.
+          * SDLC involves total six phases or steps.
+          * In SDLC, more number of members (developers) are required for the whole process.
+          * SDLC phases are completed before the STLC phases.
+          * Post deployment support , enhancement , and update are to be included if necessary.
+          * Creation of reusable software systems is the end result of SDLC.
+
+   STLC - * STLC is mainly related to software testing.
+          * It focuses only on testing the software.
+          * STLC involves only five phases or steps.
+          * In STLC, less number of members (testers) are needed.
+          * STLC phases are performed after SDLC phases.
+          * Regression tests are run by QA team to check deployed maintenance code and maintains test cases and automated scripts.
+          * A tested software system is the end result of STLC.
+
+
+2.What are verification and validation?
+
+A. Verification - is the process for determining whether or not a product fulfills the requirements or specifications established for it.
+   Validation   - is the assessment of a planned or delivered system to meet the sponsor's operational need in the most realistic environment achievable.
+
+3.What is authorization and authentication?
+
+A. authentication is the process of verifying who a user is, while authorization is the process of verifying what they have access to.
+
+4.What is test management review and why it is important?
+
+A. Test Management is a process where testing activities are managed to ensures high quality and high end testing of software application. 
+   This method consists of tracking, organization, controlling process,checks visibility of the testing process in order to deliver the high quality software application. 
+
+5. Define client side and server side validation?
+A. Validation done in the browser is called client-side validation, while validation done on the server is called server-side validation.
+
+6. Explain the request response flow from front end to back end?
+A. The frontend flow - is responsible to determine a solution for a given problem or opportunity and transform it into a RTL circuit description. 
+   The backend process - is responsible for the physical implementation of a circuit. It transforms the RTL circuit description into a physical design, composed by gates and its interconnections.
+   The main phases of the backend process are Synthesis and Place&Route.
+
+7. Explain life cycle phases of the project?
+A. There are 5 phases to the project life cycle (also called the 5 process groups)
+   Initiating phase - consists of just two separate processes: the project charter and stakeholder register. The point of this phase is to determine the vision for your project, document what you hope to accomplish, and secure approvals from a sanctioning stakeholder.
+   Planning phase   - where you build the project infrastructure that will enable you to achieve your goal within your predetermined time and budget constraints, starting with a project management plan, project scope, work breakdown structure and more
+   Executing phase  - where most of the budget is allocated and most of the project deliverables are produced. You take your project plan and put it into action, whether that takes weeks, months, or even years.the goal of this phase as, “managing teams effectively while orchestrating timeline expectations and reaching benchmark goals.” 
+                      The executing phase often includes team development, stakeholder engagement, and quality assurance activities, either on a formal or informal basis.
+   Monitoring and controlling phase - involves keeping an eye on the actual progress of the project against your plan and taking corrective action where necessary. No amount of perfect planning will exempt you from the need to be constantly vigilant with tracking and reporting.
+   Closing phase    -  is the final phase of the project life cycle includes just one solitary process, and it’s more than simply checking off the project as done. It’s essential to formally close the project and secure a sign-off or approval from the customer, stakeholders, and/or project sponsor. 
+
+8. How do you define success?
+A. I consider reaching both small and large milestones towards a goal as a success.
+
+9.What are your strengths and weakness?
+A. My strengths are Creativity,Honesty,time-management and Self-controlling
+   & My weakness are Too sensitive & Too emotinal
+
+10.Have you faced any challenging situation and how did you overcome it?
+A. I have faced a challenge when I am an NCC candidate, so the challenge is to practise weapon drill and we need present this weapon drill within 2 days in front of our commanding officer & District collector on behalf of our college!
+   the thing is before we don't know how to do a weapon drill & how to hold a weapon.  
+   Our team practised 9 hours per day, we did hard work as a team and finally, our team presented successfully.  
+   And the commanding officer & District collector appreciated us .!!!
+ 
